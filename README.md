@@ -54,7 +54,7 @@ Developer → GitHub → Jenkins → Maven Build → SonarQube → Nexus → Doc
 ## 🚀 How to Run
 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/cicd-jenkins-docker-kubernetes.git
+https://github.com/sanjayt-1503/cicd-jenkins-docker-kubernetes.git
 ```
 2. Configure Jenkins credentials for AWS and Docker
 3. Create a Jenkins pipeline job and point to this repo
