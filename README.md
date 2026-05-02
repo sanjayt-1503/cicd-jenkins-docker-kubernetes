@@ -31,8 +31,8 @@ Developer → GitHub → Jenkins → Maven Build → SonarQube → Nexus → Doc
 ├── Jenkinsfile
 ├── Dockerfile
 ├── k8s/
-│   ├── deployment.yaml
-│   └── service.yaml
+   ├── deployment.yaml
+   └── service.yaml
 └── README.md
 
 ## 🔄 Pipeline Stages
